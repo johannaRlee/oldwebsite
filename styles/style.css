@@ -23,3 +23,15 @@
     color: #992973;
     text-shadow: black 0.05em 0.05em 0.05em;
 }
+
+
+.jumbotron-johanna2 {
+    margin-bottom: 0px;
+    background-image: url("..");
+    background-position: center;
+    background-size: 38%;
+    background-color: #E1CB17 !important;
+    background-repeat: no-repeat;
+    color: #992973;
+    text-shadow: black 0.05em 0.05em 0.05em;
+}
