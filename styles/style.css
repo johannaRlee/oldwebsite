@@ -177,7 +177,7 @@ section {
   }
   .timeline-item:nth-child(5) .timeline-img-header {
     background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("/scripts/images/experience.png") center center no-repeat;
-    background-size: cover;
+    background-size: 100%;
   }
   .timeline-item:nth-child(6) .timeline-img-header {
     background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://hd.unsplash.com/photo-1471479917193-f00955256257") center center no-repeat;
