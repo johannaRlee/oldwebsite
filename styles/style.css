@@ -20,7 +20,7 @@
     background-image: url("../scripts/images/quic.png");
     background-position: center;
     background-size: 28%;
-    background-color: #E1CB17 !important;
+    background-color: #BFA4C9 !important;
     background-repeat: no-repeat;
     color: #992973;
     text-shadow: black 0.05em 0.05em 0.05em;
@@ -29,11 +29,24 @@
 
 .jumbotron-johanna2 {
     margin-bottom: 0px;
-    background-image: url("..");
-    background-position: center;
-    background-size: 28%;
-    background-color: #E1CB17 !important;
-    background-repeat: no-repeat;
+    background-color: #BFA4C9 !important;
     color: #992973;
-    text-shadow: black 0.05em 0.05em 0.05em;
+    text-shadow: black 0.05em 0.05em;
+}
+
+.roundedimg {
+    border-radius: 5px;
+    box-shadow: 8px 8px 6px rgba(112, 91, 91, 0.363);
+}
+
+h2 {
+    color:#992973;
+
+}
+
+.jumbo {
+    padding-bottom: 0;
+    margin-bottom: 0px;
+    position: relative;
+
 }
